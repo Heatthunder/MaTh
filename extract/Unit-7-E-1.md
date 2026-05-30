@@ -1,4 +1,3 @@
-```
 ---START FILE: A2 Warm Up 7-5 - KEY.pdf---
 ---PAGE 1---
 A2 Warm Up 7-5 || confidence: high
@@ -179,4 +178,3 @@ $$\log(5-3)+\log_{-1}5=1\quad \log(-2-3)+\log(-2)=1$$ || confidence: med
 $$\log(2)+\log(5)=$$ || confidence: high
 NOT OK! || confidence: high
 ---END FILE: A2 KEY Notes 7-5 Solving Exp and Log Eqtns.pdf---
-```
