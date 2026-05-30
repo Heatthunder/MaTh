@@ -1,4 +1,3 @@
-```
 ---START FILE: A2+KEY+Notes+6-5+misha.pdf---
 ---PAGE 1---
 Notes 6.5-SOLVING SQUARE ROOT EQUATIONS || confidence: high
@@ -239,5 +238,3 @@ left 1, up 4 || confidence: high
 Write equation for graph: || confidence: high
 Anchor pt 3 units right 1 unit up $\Rightarrow y=\sqrt[3]{x-3}+1$ || confidence: high
 ---END FILE: Alg2+Notes+KEY+6-8.pdf---
-
-```
