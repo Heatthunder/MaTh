@@ -1,4 +1,3 @@
-```
 ---START FILE: A2+Warm+Up+6.3+-+KEY.pdf---
 ---PAGE 1---
 A2 Warm Up 6.3 || confidence: high
@@ -845,4 +844,3 @@ yyy || confidence: low
 $\sqrt{\frac{1}{2xy^{2}}}=\frac{1}{y\sqrt{2x}}\cdot\frac{\sqrt{2x}}{\sqrt{2x}}=\frac{\sqrt{2x}}{2xy}$ || confidence: med
 2xy || confidence: low
 ---END FILE: A2+KEY+Review+6.1_6.2+25-26+(1).pdf---
-```
