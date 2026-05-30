@@ -1,4 +1,3 @@
-```
 ---START FILE: A2+KEY+Review+Ch8+(practice+test).pdf---
 ---PAGE 1---
 Algebra 2 || confidence: high
@@ -633,4 +632,3 @@ $\frac{x+2}{x-7} = \frac{-7+2}{-7-7} = \frac{-5}{-14} = \frac{5}{14} \quad Hole:
 VA: $x-7=0 \Rightarrow x=7$ || confidence: high
 x-int: $x+2=0 \Rightarrow x=-2 \quad (-2, 0)$ || confidence: high
 ---END FILE: A2+Notes+8.3A+Intro+to+Ratonal+Functions.docx.pdf---
-```
