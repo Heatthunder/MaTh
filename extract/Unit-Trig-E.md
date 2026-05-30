@@ -1,4 +1,3 @@
-
 ---START FILE: A2+Notes+KEY+T.1.pdf---
 ---PAGE 1---
 A2 NOTES T1 - RIGHT TRIANGLES AND TRIGONOMETRIC RATIOS || confidence: high
@@ -423,5 +422,3 @@ $SL = \frac{LL}{\sqrt{3}}$ || confidence: high
 $w = \frac{10}{\sqrt{3}} (\frac{\sqrt{3}}{\sqrt{3}}) = \frac{10\sqrt{3}}{3}$ || confidence: high
 $y = 2(\frac{10\sqrt{3}}{3}) \Rightarrow y = \frac{20\sqrt{3}}{3}$ || confidence: high
 ---END FILE: PC+KEY+Notes+T-0+Special+Right+Triangles.pdf---
-
-
