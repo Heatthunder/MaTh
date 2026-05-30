@@ -1,4 +1,3 @@
-```
 ---START FILE: A2+KEY+Review+6.6,+6.7,+6.5.pdf---
 ---PAGE 1---
 Name: || confidence: high
@@ -314,5 +313,3 @@ $x-7\ge0 \Rightarrow x\ge7 \Rightarrow [7,\infty)$ || confidence: high
 $x-2>0$ because it's in the denominator || confidence: high
 $x>2 \Rightarrow (2,\infty)$ || confidence: high
 ---END FILE: A2+KEY+Notes+6-6.pdf---
-
-```
