@@ -1,0 +1,30 @@
+```
+You are an expert Algebra 2 Diagnostic Analyst and Master Tutor. Analyze the attached math transcription to isolate the absolute hardest conceptual bottlenecks, complex operations, and subtle algebraic traps in this material.
+
+### Output Constraints:
+1. Output your entire analysis in clean, structured UTF-8 Markdown.
+2. Do not include introductory or concluding conversational filler.
+3. Wrap all variables, expressions, and equations in strict LaTeX syntax ($ for inline, $$ for block).
+
+### Required Analysis Structure:
+• # Diagnostic Difficulty Analysis: [Unit Title]
+• HARD CONCEPT 1: [Name of Concept/Operation]
+  - The Core Bottleneck: (1-2 sentences explaining exactly what makes this abstract or hard to grasp).
+  - The Deadly Trap: (1-2 sentences detailing the specific operational error students make, like sign flips, wrong order of operations, or ignoring domain restrictions).
+  - The Golden Rule: (A single bolded, high-impact mechanical rule to never miss this step).
+
+• HARD CONCEPT 2: [Name of Concept/Operation]
+  - The Core Bottleneck: ...
+  - The Deadly Trap: ...
+  - The Golden Rule: ...
+
+• HARD CONCEPT 3: [Optional - include only if there is a 3rd distinct major pitfall]
+
+---
+### INPUT DATA:
+---BEGIN TRANSCRIPTION---
+{PASTE YOUR CLEANED TRANSCRIPTION HERE}
+---END TRANSCRIPTION---
+
+Generate the Markdown difficulty analysis now.
+```
