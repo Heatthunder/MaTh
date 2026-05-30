@@ -1,4 +1,3 @@
-```
 ---START FILE: A2+KEY+Warm+Up+11-1+and+11-2.pdf---
 ---PAGE 1---
 A2 Warm Up 11.1 and 11.2 || confidence: high
@@ -1196,5 +1195,3 @@ $\frac{11}{63}\approx.17\underline{46}\Theta3...$ || confidence: med
 1.175 || confidence: low
 b. to the nearest 1000th. || confidence: high
 ---END FILE: A2+Notes+KEY+P-5+Advanced+Probability.pdf---
-
-```
