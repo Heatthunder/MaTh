@@ -18,7 +18,7 @@ word INSPIRATIONAL? || confidence: high
 UTAL || confidence: med
 [Diagram: Table comparing cat and dog ownership] || confidence: high
 , Has a cat, Does not have a cat || confidence: high
-Has a dog, 2., 3 || confidence: high
+Has a dog, 2, 3 || confidence: high
 Does not have a dog, 13, 11 || confidence: high
 5 || confidence: high
 24 || confidence: high
@@ -35,14 +35,15 @@ how many students play an instrument or a sport. || confidence: high
 What is || confidence: high
 the probability that a student chosen randomly from the || confidence: high
 class plays neither a sport nor an instrument? || confidence: high
-3. A spinner is divided into five colored sections that are || confidence: high
+5. A spinner is divided into five colored sections that are || confidence: high
 not of equal size: red, blue, green, yellow, and purple. || confidence: high
 The || confidence: high
 spinner is spun several times, and the results are recorded || confidence: high
 below: || confidence: high
 [Diagram: Table comparing instrument and sport participation] || confidence: high
 , Plays an instrument, Does not play an instrument || confidence: high
-Plays a sport, 7, 23 16 || confidence: med
+Plays a sport, 7, 23 || confidence: high
+16 || confidence: high
 Does not play a sport, 4, 2 || confidence: high
 Spinner Results || confidence: high
 [Diagram: Table of spinner results frequencies] || confidence: high
@@ -90,7 +91,7 @@ letters || confidence: high
 Repeats! 2m's || confidence: high
 2 a's || confidence: high
 It's || confidence: low
-$\xi\frac{||!}{2!2!2!}=4,9~89,60$ || confidence: med
+$\frac{11!}{2!2!2!}=4,989,600$ || confidence: med
 2. How many 7 character license plates can be made if the first 3 characters must be letters and || confidence: high
 the last character must be a digit and the rest can be letters or digits? || confidence: high
 Repeats are OK || confidence: high
@@ -114,7 +115,7 @@ Probability Line || confidence: high
 Impossible || confidence: high
 As likely as not || confidence: high
 [Diagram: Probability line mapping text to decimals and percentages] || confidence: high
-H, 0 Unlikely, +, H, 1, 1.0, 100%, $\frac{1}{2}$ Likely || confidence: med
+0 Unlikely, +, H, 1, 1.0, 100%, $\frac{1}{2}$ Likely || confidence: med
 0.0, 0.5 || confidence: high
 0%, 50% || confidence: high
 Certain || confidence: high
@@ -203,7 +204,7 @@ TOTAL || confidence: high
 = || confidence: low
 Seventh Grade Students || confidence: high
 [Diagram: Table mapping instruments to number of seventh grade students] || confidence: high
-Instrument # of Students || confidence: high
+Instrument, # of Students || confidence: high
 Guitar, 4 || confidence: high
 Bass, 9 || confidence: high
 Drums, 6 || confidence: high
@@ -486,7 +487,7 @@ How || confidence: high
 many different ways can a pizza be made with 4 toppings? || confidence: high
 6 choices, allowed 4 || confidence: med
 to pick || confidence: high
-$\begin{matrix}C_{4}&=15$ || confidence: med
+$C_{4}=15$ || confidence: med
 2. There were 14 students running in a race. How many || confidence: high
 different arrangements of first, second, and third place are || confidence: high
 possible? || confidence: high
@@ -818,7 +819,7 @@ So, $q=1-p$ || confidence: high
 4. The probability of successful outcomes, p, is the same number for each trial. || confidence: high
 If n number of independent repeated trials, each with a probability of success p and a probability of || confidence: high
 failure q then the binomial probability of r number of successes in the n number of trials is found by: || confidence: high
-PG = (CrXpXq $n-v$ ) || confidence: med
+PG) = (CrXpXq $n-v$ ) || confidence: med
 of trials || confidence: high
 # if || confidence: med
 Successes || confidence: high
